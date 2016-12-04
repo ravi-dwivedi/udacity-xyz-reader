@@ -1,0 +1,19 @@
+<resources>
+    <!-- list -->
+    <dimen name="list_toolbar_side_margin">0dp</dimen>
+    <integer name="list_column_count">3</integer>
+    <dimen name="list_width">-1dp</dimen>
+    <dimen name="list_height">-1dp</dimen>
+    <dimen name="list_top_margin">0dp</dimen>
+    <dimen name="list_bottom_margin">16dp</dimen>
+    <dimen name="list_left_margin">8dp</dimen>
+    <dimen name="list_right_margin">8dp</dimen>
+
+    <!-- detail -->
+    <dimen name="detail_photo_height">224dp</dimen>
+    <dimen name="detail_inner_horiz_margin">112dp</dimen>
+    <dimen name="detail_activity_toolbar_height">256dp</dimen>
+    <dimen name="detail_activity_left_margin">32dp</dimen>
+    <dimen name="detail_activity_right_margin">32dp</dimen>
+    <dimen name="detail_activity_text_part_width">1000dp</dimen>
+</resources>
